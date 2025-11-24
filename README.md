@@ -115,7 +115,7 @@ root/
 
 ---
 
-## 🧪 How to Reproduce
+## How to Reproduce
 
 1. **Clone the repository**  
 2. **Install dependencies**  
