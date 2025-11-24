@@ -90,7 +90,6 @@ This strategy presents a compelling case for long-term investors seeking **data-
 ## Repository Structure
 ```
 root/
-│
 ├── Data Files
 │ ├── price_data.csv
 │ ├── sma_50.csv
@@ -98,7 +97,6 @@ root/
 │ ├── momentum_20d.csv
 │ ├── strategy_returns.csv
 │ ├── strategy_cumulative_returns.csv
-│ ├── strategy_performance_metrics.csv
 │ └── correlation_matrix.csv
 │
 ├── Visualizations
@@ -109,9 +107,20 @@ root/
 ├── Notebook
 │ └── Week10.ipynb
 │
-├── Report
-│ └── W10_Term_Report.pdf
+├── Final Report & Presentation
+│ ├── W10_Term_Report.pdf
+
+│ └── MSDS_451_Week10_Presentation.pptx
+
 ```
+
+---
+
+## Checkpoints (Prior GitHub Repos)
+
+- [Checkpoint A: ETF Exploration](https://github.com/Shruti722/MSDS-451-Week4-TermProject-CheckpointA.git)
+- [Checkpoint B: Portfolio Design](https://github.com/Shruti722/MSDS-451-Week6-TermProject-CheckpointB.git)
+- [Checkpoint C: Strategy Backtest](https://github.com/Shruti722/MSDS-451-Week8-Term-Project-CheckpointC.git)
 
 ---
 
