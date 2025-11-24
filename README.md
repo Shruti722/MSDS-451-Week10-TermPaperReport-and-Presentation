@@ -63,8 +63,11 @@ The core investment philosophy follows a **systematic momentum strategy**:
 
 ## Performance Charts
 - `strategy_returns.png`: Cumulative return of the strategy
+  ![Strategy Returns](strategy_returns.png)
 - `cumulative_returns.png`: Individual ETF cumulative returns
+  ![Cumulative Returns](cumulative_returns.png)
 - `correlation_matrix.png`: Asset correlation heatmap
+- ![Correlation Matrix](correlation_matrix.png)
 
 ---
 
