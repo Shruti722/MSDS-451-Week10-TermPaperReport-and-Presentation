@@ -88,6 +88,7 @@ This strategy presents a compelling case for long-term investors seeking **data-
 ---
 
 ## Repository Structure
+```
 root/
 │
 ├── Data Files
@@ -110,6 +111,7 @@ root/
 │
 ├── Report
 │ └── W10_Term_Report.pdf
+```
 
 ---
 
